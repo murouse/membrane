@@ -64,7 +64,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/murouse/logo/attr"
+	"github.com/murouse/golgi/attr"
 	"google.golang.org/grpc"
 )
 
