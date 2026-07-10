@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package murouse.membrane.v1;
 
-option go_package = "github.com/murouse/membrane/pkg/api/membrane/v1;membranev1";
+option go_package = "github.com/murouse/membrane/pkg/api/murouse/membrane/v1;membranev1";
 
 import "google/protobuf/descriptor.proto";
 
